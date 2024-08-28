@@ -20,8 +20,11 @@
 		<li><a href="demo5.jsp">변수와상수</a></li>
 		<li><a href="demo6.jsp">변수</a></li>
 		<li><a href="demo7.jsp">연산자</a></li>
-		<li><a href="demo8.jsp"></a></li>
-		<li><a href="demo9.jsp"></a></li>
+		<li><a href="demo8.jsp">제어문</a></li>
+		<li><a href="demo9.jsp">반복문</a></li>
+		<li><a href="demo10.jsp">함수</a></li>
+		<li><a href="demo11.jsp">함수2</a></li>
+		<li><a href="demo12.jsp">함수3</a></li>
 	</ul>
 </body>
 </html>
