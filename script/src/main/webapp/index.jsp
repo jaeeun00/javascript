@@ -11,6 +11,14 @@
 <body>
 	<h1>자바스크립트 연습 홈</h1>
 	
+	<h3>배열과 객체</h3>
+	<ul>
+		<li><a href="arr1.jsp">배열1</a> 
+		<li><a href="arr2.jsp">배열2</a> 
+		<li><a href="arr3.jsp">배열3</a> 
+		<li><a href="arr4.jsp">배열4</a> 
+	</ul>
+	
 	<h3>자바스크립트 기본 문법</h3>
 	<ul>
 		<li><a href="demo1.jsp">스크립트 실행하기</a></li>
@@ -25,6 +33,9 @@
 		<li><a href="demo10.jsp">함수</a></li>
 		<li><a href="demo11.jsp">함수2</a></li>
 		<li><a href="demo12.jsp">함수3</a></li>
+		<li><a href="demo13.jsp">함수4</a></li>
+		<li><a href="demo14.jsp">함수5</a></li>
+		<li><a href="demo15.jsp">함수6</a></li>
 	</ul>
 </body>
 </html>
