@@ -16,7 +16,11 @@
 		<li><a href="arr1.jsp">배열1</a> 
 		<li><a href="arr2.jsp">배열2</a> 
 		<li><a href="arr3.jsp">배열3</a> 
-		<li><a href="arr4.jsp">배열4</a> 
+		<li><a href="arr4.jsp">배열4</a>
+		<li><a href="obj1.jsp">객체1</a>
+		<li><a href="obj2.jsp">객체2</a>
+		<li><a href="obj3.jsp">객체3</a>
+		<li><a href="obj3.jsp">객체4</a>
 	</ul>
 	
 	<h3>자바스크립트 기본 문법</h3>
