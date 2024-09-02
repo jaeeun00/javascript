@@ -11,6 +11,15 @@
 <body>
 	<h1>자바스크립트 연습 홈</h1>
 	
+	<h3>HTML DOM</h3>
+	<ul>
+		<li><a href="dom1.jsp">dom1</a></li>
+		<li><a href="dom2.jsp">dom2</a></li>
+		<li><a href="dom3.jsp">dom3</a></li>
+		<li><a href="dom4.jsp">dom4</a></li>
+	</ul>
+		
+	
 	<h3>배열과 객체</h3>
 	<ul>
 		<li><a href="arr1.jsp">배열1</a> 
@@ -21,6 +30,7 @@
 		<li><a href="obj2.jsp">객체2</a>
 		<li><a href="obj3.jsp">객체3</a>
 		<li><a href="obj3.jsp">객체4</a>
+		<li><a href="obj5.jsp">객체5</a>
 	</ul>
 	
 	<h3>자바스크립트 기본 문법</h3>

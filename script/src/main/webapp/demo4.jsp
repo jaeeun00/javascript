@@ -49,7 +49,7 @@
 	
 	// 불린형 
 	// 불린형의 값은 true, fales 두 종류의 값이 있다.
-	let let b1 = true; 
+	let b1 = true; 
 	let b2 = false;
 	
 	// 배열 
