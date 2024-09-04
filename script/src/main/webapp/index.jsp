@@ -11,6 +11,13 @@
 <body>
 	<h1>자바스크립트 연습 홈</h1>
 	
+	<h3>ajax</h3>
+	<ul>
+		<li><a href="ajax1.jsp">ajax1</a></li>
+		<li><a href="ajax2.jsp">ajax2</a></li>
+		<li><a href="ajax3.jsp">ajax3</a></li>
+	</ul>
+	
 	<h3>이벤트 처리</h3>
 	<ul>
 		<li><a href="event1.jsp">event1</a></li>
@@ -19,6 +26,8 @@
 		<li><a href="event4.jsp">event4</a></li>
 		<li><a href="event5.jsp">event5</a></li>
 		<li><a href="event6.jsp">event6</a></li>
+		<li><a href="event7.jsp">event7</a></li>
+		<li><a href="event8.jsp">event8</a></li>
 	</ul>
 	
 	<h3>HTML DOM</h3>
